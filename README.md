@@ -2,7 +2,7 @@
 
 This is a minimal static website published with the free GitHub Pages URL:
 
-`https://duncan-clark.github.io/stonegrey.com/`
+`https://duncan-clark.github.io/stone-grey/`
 
 ## Files
 
@@ -13,6 +13,6 @@ This is a minimal static website published with the free GitHub Pages URL:
 
 This folder can be published as a GitHub Pages site from the root of the `main` branch.
 
-Suggested repo: `duncan-clark/stonegrey.com`.
+Suggested repo: `duncan-clark/stone-grey`.
 
 After the repo is pushed, configure Pages to deploy from `main` / root.
