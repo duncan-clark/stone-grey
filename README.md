@@ -2,8 +2,9 @@
 
 Static site published on GitHub Pages:
 
-- https://duncan-clark.github.io/stonegrey.com/
-- https://duncan-clark.github.io/stone-grey/ (legacy mirror in `stone-grey` repo)
+**https://duncan-clark.github.io/stone-grey/**
+
+Repo: [duncan-clark/stone-grey](https://github.com/duncan-clark/stone-grey)
 
 ## Files
 
@@ -13,7 +14,7 @@ Static site published on GitHub Pages:
 
 ## Deploy
 
-Push `main` to this repo; GitHub Pages serves from the repository root.
+Push `main` to `stone-grey`; GitHub Pages serves from the repository root.
 
 ```bash
 git push origin main
