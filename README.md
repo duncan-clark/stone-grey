@@ -1,18 +1,20 @@
 # Stone Grey Website
 
-This is a minimal static website published with the free GitHub Pages URL:
+Static site published on GitHub Pages:
 
-`https://duncan-clark.github.io/stone-grey/`
+- https://duncan-clark.github.io/stonegrey.com/
+- https://duncan-clark.github.io/stone-grey/ (legacy mirror in `stone-grey` repo)
 
 ## Files
 
-- `index.html` is the home page.
-- `styles.css` contains all styling.
+- `index.html` — home page
+- `styles.css` — styling
+- `.nojekyll` — skip Jekyll processing
 
-## Deploy To GitHub Pages
+## Deploy
 
-This folder can be published as a GitHub Pages site from the root of the `main` branch.
+Push `main` to this repo; GitHub Pages serves from the repository root.
 
-Suggested repo: `duncan-clark/stone-grey`.
-
-After the repo is pushed, configure Pages to deploy from `main` / root.
+```bash
+git push origin main
+```
